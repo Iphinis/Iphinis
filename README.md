@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iphinis
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C and OCaml
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me? On discord with my tag: Iphinis#1393
 
