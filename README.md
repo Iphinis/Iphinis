@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Iphinis
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C and OCaml
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me? On discord with my tag: Iphinis#1393
+- 👋 Hi I’m Iphinis
+- 👀 I’m interested in computer science and maths
+- 📫 Discord: iphinis
 
 <!---
 Iphinis/Iphinis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
